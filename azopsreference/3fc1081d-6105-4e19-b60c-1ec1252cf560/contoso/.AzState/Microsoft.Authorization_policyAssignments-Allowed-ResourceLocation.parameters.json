@@ -8,7 +8,7 @@
         "Name": "Allowed-ResourceLocation",
         "ResourceType": "Microsoft.Authorization/policyAssignments",
         "Properties": {
-          "Scope": "<replace-me>",
+          "Scope": "<replace-mee>",
           "NotScopes": [],
           "DisplayName": "Allowed locations for Resources",
           "Description": "Specifies the allowed region where resourcen can be deployed",
